@@ -1,0 +1,448 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -96026750602100,
+    "name": "1.12.2 Sniper Elite",
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "version": {
+            "id": 11001818,
+            "name": "OptiFine-1.12.2_HD_U_G5",
+            "metadata": {
+              "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+              "size": 2457427,
+              "path": "mods/OptiFine-1.12.2_HD_U_G5.jar",
+              "url": "/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243788,
+          "name": "Vic's Modern Warfare Mod",
+          "version": {
+            "id": 3157722,
+            "name": "MW 2.0 v0.4.6.2 mc1.12.2. BETA",
+            "metadata": {
+              "sha1": "7ada0d62cd4c11000c2ca5dd4d51f5a5dc5bfdc4",
+              "size": 34769031,
+              "path": "mods/mw_2.0-0.4.6.2_mc1.12.2.jar",
+              "url": "/mods/243788/3157722/mw_2.0-0.4.6.2_mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 60089,
+          "name": "Mouse Tweaks",
+          "version": {
+            "id": 3359843,
+            "name": "[1.12.2]  2.10.1",
+            "metadata": {
+              "sha1": "17f778c7e64f1b71cee4e1f64d35a749bb6ea93d",
+              "size": 80528,
+              "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+              "url": "/mods/60089/3359843/MouseTweaks-2.10.1-mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223094,
+          "name": "Inventory Tweaks",
+          "version": {
+            "id": 2923460,
+            "name": "1.64+dev.151",
+            "metadata": {
+              "sha1": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
+              "size": 286144,
+              "path": "mods/InventoryTweaks-1.64+dev.151.jar",
+              "url": "/mods/223094/2923460/InventoryTweaks-1.64%252Bdev.151.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220318,
+          "name": "Biomes O' Plenty",
+          "version": {
+            "id": 3558882,
+            "name": "1.12.2-7.0.1.2445",
+            "metadata": {
+              "sha1": "13c1e58ffec2a550b9698e25cda93b8d155007b0",
+              "size": 4746208,
+              "path": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+              "url": "/mods/220318/3558882/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 563928,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "version": {
+            "id": 3362160,
+            "name": "FpsReducer-mc1.12.2-1.20",
+            "metadata": {
+              "sha1": "50c323de01f2235d351bf5417da6d4ef494b12e6",
+              "size": 79700,
+              "path": "mods/FpsReducer-mc1.12.2-1.20.jar",
+              "url": "/mods/280294/3362160/FpsReducer-mc1.12.2-1.20.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 308702,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225608,
+          "name": "WorldEdit",
+          "version": {
+            "id": 2941712,
+            "name": "6.1.10 (For MC 1.12.2)",
+            "metadata": {
+              "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+              "size": 1479535,
+              "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+              "url": "/mods/225608/2941712/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 267602,
+          "name": "ConnectedTexturesMod",
+          "version": {
+            "id": 2915363,
+            "name": "CTM - MC1.12.2-1.0.2.31",
+            "metadata": {
+              "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
+              "size": 199045,
+              "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+              "url": "/mods/267602/2915363/CTM-MC1.12.2-1.0.2.31.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235279,
+          "name": "Chisel",
+          "version": {
+            "id": 2915375,
+            "name": " MC1.12.2-1.0.2.45",
+            "metadata": {
+              "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
+              "size": 4755282,
+              "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
+              "url": "/mods/235279/2915375/Chisel-MC1.12.2-1.0.2.45.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 267602,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 252848,
+          "name": "Nature's Compass",
+          "version": {
+            "id": 2893527,
+            "name": "NaturesCompass-1.12.2-1.8.5",
+            "metadata": {
+              "sha1": "60bcf179cab708f67bbce98d201e82f3e7be9266",
+              "size": 196434,
+              "path": "mods/NaturesCompass-1.12.2-1.8.5.jar",
+              "url": "/mods/252848/2893527/NaturesCompass-1.12.2-1.8.5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 221826,
+          "name": "Custom NPCs",
+          "version": {
+            "id": 2996912,
+            "name": "_1.12.2-(05Jul20)",
+            "metadata": {
+              "sha1": "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
+              "size": 9911871,
+              "path": "mods/CustomNPCs_1.12.2-(05Jul20).jar",
+              "url": "/mods/221826/2996912/CustomNPCs_1.12.2-(05Jul20).jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 257814,
+          "name": "CreativeCore",
+          "version": {
+            "id": 3626833,
+            "name": "_v1.10.70_mc1.12.2",
+            "metadata": {
+              "sha1": "0f1b93d986e81ce228acdf9bea25caa1bae25dc4",
+              "size": 1320474,
+              "path": "mods/CreativeCore_v1.10.70_mc1.12.2.jar",
+              "url": "/mods/257814/3626833/CreativeCore_v1.10.70_mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 254284,
+          "name": "AmbientSounds 5",
+          "version": {
+            "id": 3516274,
+            "name": "AmbientSounds_v3.1.7_mc1.12.2",
+            "metadata": {
+              "sha1": "021bd97bcd91bd370e923c48046d6cbe1306ce87",
+              "size": 76507814,
+              "path": "mods/AmbientSounds_v3.1.7_mc1.12.2.jar",
+              "url": "/mods/254284/3516274/AmbientSounds_v3.1.7_mc1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 257814,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 222789,
+          "name": "Sound Filters",
+          "version": {
+            "id": 3025806,
+            "name": "0.12.1_for_1.12",
+            "metadata": {
+              "sha1": "3f86c275c0e6cb55ec901a76edf517ae1c478043",
+              "size": 43194,
+              "path": "mods/SoundFilters-0.12.1_for_1.12.jar",
+              "url": "/mods/222789/3025806/SoundFilters-0.12.1_for_1.12.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 307806,
+          "name": "OreLib",
+          "version": {
+            "id": 2820815,
+            "name": "1.12.2-3.6.0.1",
+            "metadata": {
+              "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+              "size": 341728,
+              "path": "mods/OreLib-1.12.2-3.6.0.1.jar",
+              "url": "/mods/307806/2820815/OreLib-1.12.2-3.6.0.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238891,
+          "name": "Dynamic Surroundings",
+          "version": {
+            "id": 2922489,
+            "name": "1.12.2-3.6.1.0",
+            "metadata": {
+              "sha1": "3d5d62c9d44517991d19e165d2051209b2d06bf3",
+              "size": 15929762,
+              "path": "mods/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+              "url": "/mods/238891/2922489/DynamicSurroundings-1.12.2-3.6.1.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 307806,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 315773,
+          "name": "Fantastic Lib",
+          "version": {
+            "id": 3341793,
+            "name": "1.12.2.047",
+            "metadata": {
+              "sha1": "608305972a27ccc3e03225f7fd22dc95395a0de0",
+              "size": 616968,
+              "path": "mods/FantasticLib-1.12.2.047.jar",
+              "url": "/mods/315773/3341793/FantasticLib-1.12.2.047.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243479,
+          "name": "MacroKey Keybinding",
+          "version": {
+            "id": 2670847,
+            "name": "[1.12.x] MacroKey 2.0",
+            "metadata": {
+              "sha1": "db52cdca91da60f40f9296aa97d092a1d5ada7fd",
+              "size": 87273,
+              "path": "mods/MacroKey Keybinding-1.12-2.0.3.202.jar",
+              "url": "/mods/243479/2670847/MacroKey%20Keybinding-1.12-2.0.3.202.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -215298628143000,
+          "name": "SniperElite",
+          "version": {
+            "id": -215298628485800,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "SniperElite"
+              ],
+              "size": 0,
+              "path": "saves/SniperElite",
+              "url": "saves/SniperElite"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -215298628505800,
+          "name": "Tests",
+          "version": {
+            "id": -215298628602500,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Tests"
+              ],
+              "size": 0,
+              "path": "saves/Tests",
+              "url": "saves/Tests"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -215298628608700,
+          "name": "Новый мир",
+          "version": {
+            "id": -215298628704900,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "Новый мир"
+              ],
+              "size": 0,
+              "path": "saves/Новый мир",
+              "url": "saves/Новый мир"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        }
+      ],
+      "shaderpacks": [],
+      "forgeVersion": "14.23.5.2860",
+      "gameVersion": "1.12.2",
+      "id": -96026750621501,
+      "name": "1.0"
+    },
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}
